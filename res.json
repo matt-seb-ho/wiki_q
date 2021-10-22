@@ -1,180 +1,799 @@
 {
   "Air shower (physics)": [
-    " Pions and kaons are not stable, thus they may decay into other particles",
-    " In addition, the secondary particles produce a widespread flash of light in forward direction due to the Cherenkov effect, as well as fluorescence light that is emitted isotropically from the excitation of nitrogen molecules",
-    " Finally, air showers emit radio waves due to the deflection of electrons and positrons by the geomagnetic field"
+    {
+      "context": " Also kaons and baryons may be created",
+      "sentence": " Pions and kaons are not stable, thus they may decay into other particles",
+      "keyword": "thus"
+    },
+    {
+      "context": "\n\nDetection\nThe original particle arrives with high energy and hence a velocity near the speed of light, so the products of the collisions tend also to move generally in the same direction as the primary, while to some extent spreading sidewise",
+      "sentence": " In addition, the secondary particles produce a widespread flash of light in forward direction due to the Cherenkov effect, as well as fluorescence light that is emitted isotropically from the excitation of nitrogen molecules",
+      "keyword": "due to"
+    },
+    {
+      "context": " The telescopes used to measure the fluorescence and Cherenkov light use large mirrors to focus the light on PMT clusters",
+      "sentence": " Finally, air showers emit radio waves due to the deflection of electrons and positrons by the geomagnetic field",
+      "keyword": "due to"
+    }
   ],
   "Arctic ice pack": [
-    "\n\nClimatic importance\nEnergy balance effects\nSea ice has an important effect on the heat balance of the polar oceans, since it insulates the (relatively) warm ocean from the much colder air above, thus reducing heat loss from the oceans",
-    " This is due to a feedback known as the albedo effect",
-    " This is much greater than the reflectivity of the sea (about 10%) and thus the ice also affects the absorption of sunlight at the surface",
-    " The Odden (the word is Norwegian for the headland) grows eastward from the main East Greenland ice edge in the vicinity of 72\u201374\u00b0N during the winter because of the presence of very cold polar surface water in the Jan Mayen Current, which diverts some water eastward from the East Greenland Current at that latitude"
+    {
+      "context": "  The regular seasonal cycle there has been an underlying trend of declining sea ice in the Arctic in recent decades as well",
+      "sentence": "\n\nClimatic importance\nEnergy balance effects\nSea ice has an important effect on the heat balance of the polar oceans, since it insulates the (relatively) warm ocean from the much colder air above, thus reducing heat loss from the oceans",
+      "keyword": "thus"
+    },
+    {
+      "context": " Sea ice is highly reflective of solar radiation, reflecting about 60% of incoming solar radiation when bare and about 80% when covered with snow",
+      "sentence": " This is due to a feedback known as the albedo effect",
+      "keyword": "due to"
+    },
+    {
+      "context": " This is due to a feedback known as the albedo effect",
+      "sentence": " This is much greater than the reflectivity of the sea (about 10%) and thus the ice also affects the absorption of sunlight at the surface",
+      "keyword": "thus"
+    },
+    {
+      "context": "\n\nOdden\nIn the Arctic, a key area where pancake ice forms the dominant ice type over an entire region is the so-called Odden ice tongue in the Greenland Sea",
+      "sentence": " The Odden (the word is Norwegian for the headland) grows eastward from the main East Greenland ice edge in the vicinity of 72\u201374\u00b0N during the winter because of the presence of very cold polar surface water in the Jan Mayen Current, which diverts some water eastward from the East Greenland Current at that latitude",
+      "keyword": "because"
+    }
   ],
   "Aurora": [
-    " These can be close to the limit of visibility, but can be distinguished from moonlit clouds because stars can be seen undiminished through the glow",
-    " The excited molecular nitrogen (atomic nitrogen being rare due to the high stability of the N2 molecule) plays a role here, as it can transfer energy by collision to an oxygen atom, which then radiates it away at the green wavelength",
-    " It is an aurora because it is caused by precipitation of electrons in the atmosphere but it appears outside the auroral oval, closer to the equator than typical auroras",
-    " The leakage of electrons does not leave the tail positively charged, because each leaked electron lost to the atmosphere is replaced by a low energy electron drawn upward from the ionosphere",
-    " The main findings have been that auroral arcs and other bright forms are due to electrons that have been accelerated during the final few 10,000 km or so of their plunge into the atmosphere",
-    " Collisions become more frequent progressing down into the atmosphere due to increasing density, so that red emissions do not have time to happen, and eventually, even green light emissions are prevented",
-    " By a strange twist of physics, the magnetic disturbance on the ground due to the main current almost cancels out, so most of the observed effect of auroras is due to a secondary current, the auroral electrojet",
-    " At small wavelengths (comparable to the electron inertial length or ion gyroradius), Alfv\u00e9n waves develop a significant electric field parallel to the background magnetic field; this can accelerate electrons due to a process of Landau damping",
-    "\" The second auroral event, which occurred on 2 September 1859, as a result of the exceptionally intense Carrington\u2013Hodgson white light solar flare on 1 September 1859, produced auroras, so widespread and extraordinarily bright that they were seen and reported in published scientific measurements, ship logs, and newspapers throughout the United States, Europe, Japan, and Australia",
-    " This insight was made possible not only due to scientific magnetometer measurements of the era, but also as a result of a significant portion of the 125,000 miles (201,000 km) of telegraph lines then in service being significantly disrupted for many hours throughout the storm",
-    "\nIn 1778, Benjamin Franklin theorized in his paper Aurora Borealis, Suppositions and Conjectures towards forming an Hypothesis for its Explanation that an aurora was caused by a concentration of electrical charge in the polar regions intensified by the snow and moisture in the air: May not then the great quantity of electricity brought into the polar regions by the clouds, which are condens'd there, and fall in snow, which electricity would enter the earth, but cannot penetrate the ice; may it not, I say (as a bottle overcharged) break thro' that low atmosphere and run along in the vacuum over the air towards the equator, diverging as the degrees of longitude enlarge, strongly visible where densest, and becoming less visible as it more diverges; till it finds a passage to the earth in more temperate climates, or is mingled with the upper air?\nObservations of the rhythmic movement of compass needles due to the influence of an aurora were confirmed in the Swedish city of Uppsala by Anders Celsius and Olof Hiorter",
-    " These arise from electric currents along field lines (\"field aligned currents\"), generated by a dynamo mechanism due to the relative motion between the rotating planet and the moving moon"
+    {
+      "context": " The aurora borealis is visible from being close to the center of the Arctic Circle such as Alaska, Canada, Iceland, Greenland, Norway, Sweden and Finland",
+      "sentence": "\nA geomagnetic storm causes the auroral ovals (north and south) to expand, bringing the aurora to lower latitudes",
+      "keyword": "causes"
+    },
+    {
+      "context": "\n\nForms\nAccording to Clark (2007), there are four main forms that can be seen from the ground, from least to most visible:\n\nA mild glow, near the horizon",
+      "sentence": " These can be close to the limit of visibility, but can be distinguished from moonlit clouds because stars can be seen undiminished through the glow",
+      "keyword": "because"
+    },
+    {
+      "context": " A fairly high concentration of atomic oxygen and higher eye sensitivity in green make green auroras the most common",
+      "sentence": " The excited molecular nitrogen (atomic nitrogen being rare due to the high stability of the N2 molecule) plays a role here, as it can transfer energy by collision to an oxygen atom, which then radiates it away at the green wavelength",
+      "keyword": "due to"
+    },
+    {
+      "context": "\n\nPicket-fence aurora\nThe processes that cause STEVE also are associated with a picket-fence aurora, although the latter can be seen without STEVE",
+      "sentence": " It is an aurora because it is caused by precipitation of electrons in the atmosphere but it appears outside the auroral oval, closer to the equator than typical auroras",
+      "keyword": "because"
+    },
+    {
+      "context": " As a result, the flow of electrons in that region is nearly the same in all directions (\"isotropic\") and assures a steady supply of leaking electrons",
+      "sentence": " The leakage of electrons does not leave the tail positively charged, because each leaked electron lost to the atmosphere is replaced by a low energy electron drawn upward from the ionosphere",
+      "keyword": "because"
+    },
+    {
+      "context": " The complete process, which also generates an electric ring current around Earth, is uncertain",
+      "sentence": "\nGeomagnetic disturbance from an enhanced solar wind causes distortions of the magnetotail (\"magnetic substorms\")",
+      "keyword": "causes"
+    },
+    {
+      "context": " Occasionally the resulting modification of Earth's magnetic field can be so strong that it produces auroras visible at middle latitudes, on field lines much closer to the equator than those of the auroral zone",
+      "sentence": "\n\nAcceleration of auroral charged particles invariably accompanies a magnetospheric disturbance that causes an aurora",
+      "keyword": "causes"
+    },
+    {
+      "context": " Since then an extensive collection of measurements has been acquired painstakingly and with steadily improving resolution since the 1960s by many research teams using rockets and satellites to traverse the auroral zone",
+      "sentence": " The main findings have been that auroral arcs and other bright forms are due to electrons that have been accelerated during the final few 10,000 km or so of their plunge into the atmosphere",
+      "keyword": "due to"
+    },
+    {
+      "context": " Because the highest parts of the atmosphere contain a higher percentage of oxygen and lower particle densities, such collisions are rare enough to allow time for oxygen to emit red light",
+      "sentence": " Collisions become more frequent progressing down into the atmosphere due to increasing density, so that red emissions do not have time to happen, and eventually, even green light emissions are prevented",
+      "keyword": "due to"
+    },
+    {
+      "context": "\nIonospheric resistance has a complex nature, and leads to a secondary Hall current flow",
+      "sentence": " By a strange twist of physics, the magnetic disturbance on the ground due to the main current almost cancels out, so most of the observed effect of auroras is due to a secondary current, the auroral electrojet",
+      "keyword": "due to"
+    },
+    {
+      "context": " That alone would tend to line them up in the Sun-Earth direction, but the rotation of the Sun angles them at Earth by about 45 degrees forming a spiral in the ecliptic plane, known as the Parker spiral",
+      "sentence": " The field lines passing Earth are therefore usually linked to those near the western edge (\"limb\") of the visible Sun at any time",
+      "keyword": "therefore"
+    },
+    {
+      "context": "\nSome auroral features are also created by electrons accelerated by Alfv\u00e9n waves",
+      "sentence": " At small wavelengths (comparable to the electron inertial length or ion gyroradius), Alfv\u00e9n waves develop a significant electric field parallel to the background magnetic field; this can accelerate electrons due to a process of Landau damping",
+      "keyword": "due to"
+    },
+    {
+      "context": " It is also notable for the fact that it is the first time where the phenomena of auroral activity and electricity were unambiguously linked",
+      "sentence": " This insight was made possible not only due to scientific magnetometer measurements of the era, but also as a result of a significant portion of the 125,000 miles (201,000 km) of telegraph lines then in service being significantly disrupted for many hours throughout the storm",
+      "keyword": "due to"
+    },
+    {
+      "context": "Walter William Bryant wrote in his book Kepler (1920) that Tycho Brahe \"seems to have been something of a hom\u0153opathist, for he recommends sulfur to cure infectious diseases 'brought on by the sulphurous vapours of the Aurora Borealis'\"",
+      "sentence": "\nIn 1778, Benjamin Franklin theorized in his paper Aurora Borealis, Suppositions and Conjectures towards forming an Hypothesis for its Explanation that an aurora was caused by a concentration of electrical charge in the polar regions intensified by the snow and moisture in the air: May not then the great quantity of electricity brought into the polar regions by the clouds, which are condens'd there, and fall in snow, which electricity would enter the earth, but cannot penetrate the ice; may it not, I say (as a bottle overcharged) break thro' that low atmosphere and run along in the vacuum over the air towards the equator, diverging as the degrees of longitude enlarge, strongly visible where densest, and becoming less visible as it more diverges; till it finds a passage to the earth in more temperate climates, or is mingled with the upper air?\nObservations of the rhythmic movement of compass needles due to the influence of an aurora were confirmed in the Swedish city of Uppsala by Anders Celsius and Olof Hiorter",
+      "keyword": "due to"
+    },
+    {
+      "context": " In addition, the moons, especially Io, are also powerful sources of aurora",
+      "sentence": " These arise from electric currents along field lines (\"field aligned currents\"), generated by a dynamo mechanism due to the relative motion between the rotating planet and the moving moon",
+      "keyword": "due to"
+    }
   ],
   "Belt of Venus": [
-    " The pinkish glow is due to the Rayleigh scattering of light from the rising or setting Sun, which is then backscattered by particulates",
-    " Since the greatest elongation (angular separation between the Sun and a Solar System body) of Venus is only 45\u201348\u00b0, the inferior planet never appears in the opposite of the Sun's direction (180\u00b0 difference in ecliptic longitude) from Earth and is thus never located in the Belt of Venus"
+    {
+      "context": " \nAs twilight progresses, the arch is separated from the horizon by the dark band of Earth's shadow, or \"twilight wedge\"",
+      "sentence": " The pinkish glow is due to the Rayleigh scattering of light from the rising or setting Sun, which is then backscattered by particulates",
+      "keyword": "due to"
+    },
+    {
+      "context": "The name of the phenomenon alludes to the cestus, a girdle or breast-band, of the Ancient Greek goddess Aphrodite, customarily equated with the Roman goddess Venus",
+      "sentence": " Since the greatest elongation (angular separation between the Sun and a Solar System body) of Venus is only 45\u201348\u00b0, the inferior planet never appears in the opposite of the Sun's direction (180\u00b0 difference in ecliptic longitude) from Earth and is thus never located in the Belt of Venus",
+      "keyword": "thus"
+    }
   ],
   "Blue hour": [
-    "\nThe blue hour occurs when the Sun is far enough below the horizon so that the sunlight's blue wavelengths dominate due to the Chappuis absorption caused by ozone",
-    " In fact, the blue hour occurs when the Sun is far enough below the horizon so that the sunlight's blue wavelengths dominate due to the Chappuis absorption caused by ozone",
-    " During the blue \"hour\", red light passes through space while blue light is scattered in the atmosphere, and thus reaches Earth's surface"
+    {
+      "context": " This shade differs from the colour of the sky on a clear day, which is caused by Rayleigh scattering",
+      "sentence": "\nThe blue hour occurs when the Sun is far enough below the horizon so that the sunlight's blue wavelengths dominate due to the Chappuis absorption caused by ozone",
+      "keyword": "due to"
+    },
+    {
+      "context": "\n\nExplanation and times of occurrence\nThe still commonly presented incorrect explanation claims that Earth's post-sunset and pre-sunrise atmosphere solely receives and disperses the sun's shorter blue wavelengths and scatters the longer, reddish wavelengths to explain why the hue of this hour is so blue",
+      "sentence": " In fact, the blue hour occurs when the Sun is far enough below the horizon so that the sunlight's blue wavelengths dominate due to the Chappuis absorption caused by ozone",
+      "keyword": "due to"
+    },
+    {
+      "context": " This effect is caused by the relative diffusibility of shorter wavelengths (bluer rays) of visible light versus the longer wavelengths (redder rays)",
+      "sentence": " During the blue \"hour\", red light passes through space while blue light is scattered in the atmosphere, and thus reaches Earth's surface",
+      "keyword": "thus"
+    }
   ],
   "Brine rejection": [
-    "\nAs sea ice ages and thickens, the initial salinity of the ice decreases due to the rejection of brine over time [Fig",
-    " The ice block is warmest at the water-ice interface, thus pushing the brine out into the water surrounding the ice",
-    "\ngravity drainage - Gravity drainage involves the movement of brine due to differences in density between brine in the interior of the ice and brine in the seawater outside of the ice, which occurs due to the development of a buoyancy driven convection system",
-    "\nexpulsion - the migration of brine due to cracking produced by thermal expansion of the ice, or pressure caused by the increased volume of the newly formed ice",
-    " The density of the water below the newly formed ice increases due to the brine rejection",
-    " Because these waters are able to contain a large amount of CO2, they have helped slow the rise in atmospheric CO2 concentrations, thus slowing some aspects of climate change",
-    " Studies of the last glacial maximum (LGM) have indicated that a drastic reduction in the production of sea ice and thus reduction of brine rejection, would result in the weakening of the stratification in the global deep oceans and in CO2 release into the shallow oceans and the atmosphere, triggering global deglaciation"
+    {
+      "context": " The new water partially freezes within the pores of the ice, increasing the solidity of the ice",
+      "sentence": "\nAs sea ice ages and thickens, the initial salinity of the ice decreases due to the rejection of brine over time [Fig",
+      "keyword": "due to"
+    },
+    {
+      "context": " This occurs in three different ways:\n\nsolute diffusion - this depends on the fact that brine inclusions trapped in ice will begin to migrate toward the warmer end of the ice block",
+      "sentence": " The ice block is warmest at the water-ice interface, thus pushing the brine out into the water surrounding the ice",
+      "keyword": "thus"
+    },
+    {
+      "context": " The ice block is warmest at the water-ice interface, thus pushing the brine out into the water surrounding the ice",
+      "sentence": "\ngravity drainage - Gravity drainage involves the movement of brine due to differences in density between brine in the interior of the ice and brine in the seawater outside of the ice, which occurs due to the development of a buoyancy driven convection system",
+      "keyword": "due to"
+    },
+    {
+      "context": "\ngravity drainage - Gravity drainage involves the movement of brine due to differences in density between brine in the interior of the ice and brine in the seawater outside of the ice, which occurs due to the development of a buoyancy driven convection system",
+      "sentence": "\nexpulsion - the migration of brine due to cracking produced by thermal expansion of the ice, or pressure caused by the increased volume of the newly formed ice",
+      "keyword": "due to"
+    },
+    {
+      "context": " The annual increase of ice plays a major role in the movement of ocean circulation and deep water formation",
+      "sentence": " The density of the water below the newly formed ice increases due to the brine rejection",
+      "keyword": "due to"
+    },
+    {
+      "context": " When surface waters sink, they carry considerable amounts of CO2 into the deep oceans, away from the atmosphere",
+      "sentence": " Because these waters are able to contain a large amount of CO2, they have helped slow the rise in atmospheric CO2 concentrations, thus slowing some aspects of climate change",
+      "keyword": "thus"
+    },
+    {
+      "context": " The consequent increase in winter brine rejection will drive ocean ventilation, and strengthen the inflow of warm Atlantic waters",
+      "sentence": " Studies of the last glacial maximum (LGM) have indicated that a drastic reduction in the production of sea ice and thus reduction of brine rejection, would result in the weakening of the stratification in the global deep oceans and in CO2 release into the shallow oceans and the atmosphere, triggering global deglaciation",
+      "keyword": "thus"
+    }
+  ],
+  "Dawn": [
+    {
+      "context": " The simple reading of the Talmud is that dawn takes place 72 minutes before sunrise",
+      "sentence": " Others, including the Vilna Gaon, have the understanding that the Talmud's timeframe for dawn was referring specifically to an equinox day in Mesopotamia, and is therefore teaching that dawn should be calculated daily as commencing when the sun is 16",
+      "keyword": "therefore"
+    }
   ],
   "Double sunset": [
-    " The spectacle was last reliably witnessed, and filmed, from the churchyard in 1977, but is no longer visible from the location because of tree interference"
+    {
+      "context": " The sun partially reappeared from The Cloud's steep northern slope and soon afterwards set for a second and final time on the horizon",
+      "sentence": " The spectacle was last reliably witnessed, and filmed, from the churchyard in 1977, but is no longer visible from the location because of tree interference",
+      "keyword": "because"
+    },
+    {
+      "context": " It is, however, still observable from Leek on and around the summer solstice from the road to Pickwood Hall, off Milltown Way, and from Lowe Hill on the outskirts of the town",
+      "sentence": " Better viewing points, though, are from the A 523, above Rudyard Lake, and Woodhouse Green, both of which are nearer to The Cloud and therefore enable a larger proportion of the sun to reappear",
+      "keyword": "therefore"
+    }
   ],
   "Dusk": [
-    " After this time the Sun no longer illuminates the sky, and thus no longer interferes with astronomical observations"
+    {
+      "context": " It marks the end of astronomical twilight, which begins at nautical dusk",
+      "sentence": " After this time the Sun no longer illuminates the sky, and thus no longer interferes with astronomical observations",
+      "keyword": "thus"
+    }
   ],
   "Eclipse": [
-    " It is because of the non-planar and non-circular differences that eclipses are not a common event",
-    " During a lunar eclipse only the umbra and penumbra are applicable, because the antumbra of the Sun-Earth system lies far beyond the Moon",
-    " Analogously, Earth's apparent diameter from the viewpoint of the Moon is nearly four times that of the Sun and thus cannot produce an annular eclipse",
-    "\n\nDuring a solar eclipse, the Moon can sometimes perfectly cover the Sun because its apparent size is nearly the same as the Sun's when viewed from the Earth",
-    " Much as in a sunset, the atmosphere tends to more strongly scatter light with shorter wavelengths, so the illumination of the Moon by refracted light has a red hue, thus the phrase 'Blood Moon' is often found in descriptions of such lunar events as far back as eclipses are recorded",
-    "\n\nOther planets and dwarf planets\nGas giants\nThe gas giant planets have many moons and thus frequently display eclipses",
-    "On the other three gas giants (Saturn, Uranus and Neptune) eclipses only occur at certain periods during the planet's orbit, due to their higher inclination between the orbits of the moon and the orbital plane of the planet",
-    " The time difference gives the longitude of the observer because every hour of difference corresponded to 15\u00b0 around the Earth's equator",
-    "\n\nMars\nOn Mars, only partial solar eclipses (transits) are possible, because neither of its moons is large enough, at their respective orbital radii, to cover the Sun's disc as seen from the surface of the planet"
+    {
+      "context": " And if both orbits were perfectly circular, then each solar eclipse would be the same type every month",
+      "sentence": " It is because of the non-planar and non-circular differences that eclipses are not a common event",
+      "keyword": "because"
+    },
+    {
+      "context": "\nA total eclipse occurs when the observer is within the umbra, an annular eclipse when the observer is within the antumbra, and a partial eclipse when the observer is within the penumbra",
+      "sentence": " During a lunar eclipse only the umbra and penumbra are applicable, because the antumbra of the Sun-Earth system lies far beyond the Moon",
+      "keyword": "because"
+    },
+    {
+      "context": " During a lunar eclipse only the umbra and penumbra are applicable, because the antumbra of the Sun-Earth system lies far beyond the Moon",
+      "sentence": " Analogously, Earth's apparent diameter from the viewpoint of the Moon is nearly four times that of the Sun and thus cannot produce an annular eclipse",
+      "keyword": "thus"
+    },
+    {
+      "context": " The Moon's umbra will advance eastward at a rate of 1,700 km/h, until it no longer intersects the Earth's surface",
+      "sentence": "\n\nDuring a solar eclipse, the Moon can sometimes perfectly cover the Sun because its apparent size is nearly the same as the Sun's when viewed from the Earth",
+      "keyword": "because"
+    },
+    {
+      "context": " Sunlight refracted through the Earth's atmosphere enters the umbra and provides a faint illumination",
+      "sentence": " Much as in a sunset, the atmosphere tends to more strongly scatter light with shorter wavelengths, so the illumination of the Moon by refracted light has a red hue, thus the phrase 'Blood Moon' is often found in descriptions of such lunar events as far back as eclipses are recorded",
+      "keyword": "thus"
+    },
+    {
+      "context": "  In order to disseminate this information to a broader audience and decrease fear of the consequences of eclipses, booksellers printed broadsides explaining the event either using the science or via astrology",
+      "sentence": "\n\nOther planets and dwarf planets\nGas giants\nThe gas giant planets have many moons and thus frequently display eclipses",
+      "keyword": "thus"
+    },
+    {
+      "context": " This was used to produce the first estimate of the speed of light",
+      "sentence": "On the other three gas giants (Saturn, Uranus and Neptune) eclipses only occur at certain periods during the planet's orbit, due to their higher inclination between the orbits of the moon and the orbital plane of the planet",
+      "keyword": "due to"
+    },
+    {
+      "context": " By knowing the expected time when an eclipse would be observed at a standard longitude (such as Greenwich), the time difference could be computed by accurately observing the local time of the eclipse",
+      "sentence": " The time difference gives the longitude of the observer because every hour of difference corresponded to 15\u00b0 around the Earth's equator",
+      "keyword": "because"
+    },
+    {
+      "context": " Cassini in 1679 to re-map France",
+      "sentence": "\n\nMars\nOn Mars, only partial solar eclipses (transits) are possible, because neither of its moons is large enough, at their respective orbital radii, to cover the Sun's disc as seen from the surface of the planet",
+      "keyword": "because"
+    }
   ],
   "Equation of time": [
-    " However, due to the non-integral number of days in a year, these dates can vary by a day or so from year to year",
-    " On Mars the difference between sundial time and clock time can be as much as 50 minutes, due to the considerably greater eccentricity of its orbit",
-    " But the numerical values in tables of the equation of time have somewhat changed since then, owing to three factors:\n\ngeneral improvements in accuracy that came from refinements in astronomical measurement techniques,\nslow intrinsic changes in the equation of time, occurring as a result of small long-term changes in the Earth's obliquity and eccentricity (affecting, for instance, the distance and dates of perihelion), and\nthe inclusion of small sources of additional variation in the apparent motion of the Sun, unknown in the 17th century, but discovered from the 18th century onwards, including the effects of the Moon, Venus and Jupiter",
-    "  Times in the Almanac were in apparent solar time, because time aboard ship was most often determined by observing the Sun",
-    " In the issues since 1834, all times have been in mean solar time, because by then the time aboard ship was increasingly often determined by marine chronometers",
-    " In addition to the equation of time, one also has to apply corrections due to one's distance from the local time zone meridian and summer time, if any",
-    "\nThe tiny increase of the mean solar day due to the slowing down of the Earth's rotation, by about 2 ms per day per century, which currently accumulates up to about 1 second every year, is not taken into account in traditional definitions of the equation of time, as it is imperceptible at the accuracy level of sundials",
-    "291 km/s, according to Kepler's laws of planetary motion, and its angular speed also varies, and thus the Sun appears to move faster (relative to the background stars) at perihelion (currently around 3 January) and slower at aphelion a half year later",
-    " This variation is due to the apparent precession of the rotating Earth through the year, as seen from the Sun at solar midday",
-    " A slight yearly variation occurs due to presence of leap years, resetting itself every 4 years",
-    " The exact shape of the equation of time curve and the associated analemma slowly change over the centuries, due to secular variations in both eccentricity and obliquity",
-    " The offset by \u03c0 = 180\u00b0 = 12 hours from UT is needed because UT is zero at mean midnight while GMHA = 0 at mean noon",
-    " Therefore, GMST is an approximation to GAST (and E is an approximation to EOT); eqeq is called the equation of the equinoxes and is due to the wobbling, or nutation of the Earth's axis of rotation about its precessional motion",
-    "\nNext, knowing \u03bd, calculate \u03bb from its definition:\n\n\u03bb = \u03bd + \u03bbpThe value of \u03bb varies non-linearly with M because the orbit is elliptical and not circular",
-    " Here \u0394t(M) = M + \u03bbp \u2212 \u03b1[\u03bb(M)] is used; in part because small corrections (of the order of 1 second), that would justify using E, are not included, and in part because the goal is to obtain a simple analytical expression",
-    " Using two-term approximations for \u03bb(M) and \u03b1(\u03bb) allows \u0394t to be written as an explicit expression of two terms, which is designated \u0394tey because it is a first order approximation in e and in y",
-    " When evaluating the numerical expression for \u0394tey as given above, a calculator must be in radian mode to obtain correct values because the value of 2\u03bbp \u2212 2\u03c0 in the argument of the second term is written there in radians",
-    " This large discrepancy happens because the difference between the orbital radius at the two locations is only 1 part in a million; in other words, radius is a very weak function of time near periapsis",
-    "\nIn all this note that \u0394tey as written above is easy to evaluate, even with a calculator, is accurate enough (better than 1 minute over the 80-year range) for correcting sundials, and has the nice physical explanation as the sum of two terms, one due to obliquity and the other to eccentricity that was used previously in the article"
+    {
+      "context": " Ignoring very slow changes in the Earth's orbit and rotation, these events are repeated at the same times every tropical year",
+      "sentence": " However, due to the non-integral number of days in a year, these dates can vary by a day or so from year to year",
+      "keyword": "due to"
+    },
+    {
+      "context": "The equation of time is constant only for a planet with zero axial tilt and zero orbital eccentricity",
+      "sentence": " On Mars the difference between sundial time and clock time can be as much as 50 minutes, due to the considerably greater eccentricity of its orbit",
+      "keyword": "due to"
+    },
+    {
+      "context": "\nFrom 1767 to 1833, the British Nautical Almanac and Astronomical Ephemeris tabulated the equation of time in the sense 'add or subtract (as directed) the number of minutes and seconds stated to or from the apparent time to obtain the mean time'",
+      "sentence": "  Times in the Almanac were in apparent solar time, because time aboard ship was most often determined by observing the Sun",
+      "keyword": "because"
+    },
+    {
+      "context": " This operation would be performed in the unusual case that the mean solar time of an observation was needed",
+      "sentence": " In the issues since 1834, all times have been in mean solar time, because by then the time aboard ship was increasingly often determined by marine chronometers",
+      "keyword": "because"
+    },
+    {
+      "context": " Since the equation of time has a range of about 33 minutes, the difference between sundial time and clock time cannot be ignored",
+      "sentence": " In addition to the equation of time, one also has to apply corrections due to one's distance from the local time zone meridian and summer time, if any",
+      "keyword": "due to"
+    },
+    {
+      "context": " In addition to the equation of time, one also has to apply corrections due to one's distance from the local time zone meridian and summer time, if any",
+      "sentence": "\nThe tiny increase of the mean solar day due to the slowing down of the Earth's rotation, by about 2 ms per day per century, which currently accumulates up to about 1 second every year, is not taken into account in traditional definitions of the equation of time, as it is imperceptible at the accuracy level of sundials",
+      "keyword": "due to"
+    },
+    {
+      "context": "287 and 29",
+      "sentence": "291 km/s, according to Kepler's laws of planetary motion, and its angular speed also varies, and thus the Sun appears to move faster (relative to the background stars) at perihelion (currently around 3 January) and slower at aphelion a half year later",
+      "keyword": "thus"
+    },
+    {
+      "context": "In the figure on the right, we can see the monthly variation of the apparent slope of the plane of the ecliptic at solar midday as seen from Earth",
+      "sentence": " This variation is due to the apparent precession of the rotating Earth through the year, as seen from the Sun at solar midday",
+      "keyword": "due to"
+    },
+    {
+      "context": " Positive means: Sun runs fast and culminates earlier, or the sundial is ahead of mean time",
+      "sentence": " A slight yearly variation occurs due to presence of leap years, resetting itself every 4 years",
+      "keyword": "due to"
+    },
+    {
+      "context": " A slight yearly variation occurs due to presence of leap years, resetting itself every 4 years",
+      "sentence": " The exact shape of the equation of time curve and the associated analemma slowly change over the centuries, due to secular variations in both eccentricity and obliquity",
+      "keyword": "due to"
+    },
+    {
+      "context": " The difference, EOT, is measurable since GHA is an angle that can be measured and Universal Time, UT, is a scale for the measurement of time",
+      "sentence": " The offset by \u03c0 = 180\u00b0 = 12 hours from UT is needed because UT is zero at mean midnight while GMHA = 0 at mean noon",
+      "keyword": "because"
+    },
+    {
+      "context": "\nAnother definition, denoted E to distinguish it from EOT, is\n\nE = GMST \u2212 \u03b1 \u2212 UT + offsetHere GMST = GAST \u2212 eqeq, is the Greenwich mean sidereal time (the angle between the mean vernal equinox and the mean Sun in the plane of the equator)",
+      "sentence": " Therefore, GMST is an approximation to GAST (and E is an approximation to EOT); eqeq is called the equation of the equinoxes and is due to the wobbling, or nutation of the Earth's axis of rotation about its precessional motion",
+      "keyword": "due to"
+    },
+    {
+      "context": " For the small value of e that characterises the Earth's orbit this gives a very good approximation for \u03bd(M)",
+      "sentence": "\nNext, knowing \u03bd, calculate \u03bb from its definition:\n\n\u03bb = \u03bd + \u03bbpThe value of \u03bb varies non-linearly with M because the orbit is elliptical and not circular",
+      "keyword": "because"
+    },
+    {
+      "context": " From the approximation for \u03bd:\n\n\u03bb \u2248 M + \u03bbp + 2e sin M + 5/4e2 sin 2M",
+      "sentence": "Finally, knowing \u03bb calculate \u03b1 from a relation for the right triangle on the celestial sphere shown above:\u200a22\u200a\n\u03b1 = tan\u22121(cos \u03b5 tan \u03bb)Note that the quadrant of \u03b1 is the same as that of \u03bb, therefore reduce \u03bb to the range 0 to 2\u03c0 and write\n\n\u03b1 = Tan\u22121 (cos \u03b5 tan \u03bb) + k\u03c0,where k is 0 if \u03bb is in quadrant 1, it is 1 if \u03bb is in quadrants 2 or 3 and it is 2 if \u03bb is in quadrant 4",
+      "keyword": "therefore"
+    },
+    {
+      "context": "\n\nEquation of time\nThe equation of time is obtained by substituting the result of the right ascension calculation into an equation of time formula",
+      "sentence": " Here \u0394t(M) = M + \u03bbp \u2212 \u03b1[\u03bb(M)] is used; in part because small corrections (of the order of 1 second), that would justify using E, are not included, and in part because the goal is to obtain a simple analytical expression",
+      "keyword": "because"
+    },
+    {
+      "context": " Here \u0394t(M) = M + \u03bbp \u2212 \u03b1[\u03bb(M)] is used; in part because small corrections (of the order of 1 second), that would justify using E, are not included, and in part because the goal is to obtain a simple analytical expression",
+      "sentence": " Using two-term approximations for \u03bb(M) and \u03b1(\u03bb) allows \u0394t to be written as an explicit expression of two terms, which is designated \u0394tey because it is a first order approximation in e and in y",
+      "keyword": "because"
+    },
+    {
+      "context": "938201 radians that correspond to the epoch 1 January 2000 at 12 noon UT1",
+      "sentence": " When evaluating the numerical expression for \u0394tey as given above, a calculator must be in radian mode to obtain correct values because the value of 2\u03bbp \u2212 2\u03c0 in the argument of the second term is written there in radians",
+      "keyword": "because"
+    },
+    {
+      "context": " This puts the periapsis on 4 January 2000 at 00:11:41 while the actual periapsis is, according to results from the Multiyear Interactive Computer Almanac (abbreviated as MICA), on 3 January 2000 at 05:17:30",
+      "sentence": " This large discrepancy happens because the difference between the orbital radius at the two locations is only 1 part in a million; in other words, radius is a very weak function of time near periapsis",
+      "keyword": "because"
+    },
+    {
+      "context": " In this event it is no more difficult to evaluate \u0394t using a computer than any of its approximations",
+      "sentence": "\nIn all this note that \u0394tey as written above is easy to evaluate, even with a calculator, is accurate enough (better than 1 minute over the 80-year range) for correcting sundials, and has the nice physical explanation as the sum of two terms, one due to obliquity and the other to eccentricity that was used previously in the article",
+      "keyword": "due to"
+    }
   ],
   "Espresso crema effect": [
-    "\nBecause of increased gas\u2013solid interfaces which result, for example due to selective leaching processes during burial, surfaces of ancient ceramics can appear brighter than they originally were"
+    {
+      "context": " Besides the physical changes, chemical differences compared to the bulk medium may be involved",
+      "sentence": "\nBecause of increased gas\u2013solid interfaces which result, for example due to selective leaching processes during burial, surfaces of ancient ceramics can appear brighter than they originally were",
+      "keyword": "due to"
+    }
   ],
   "Fog bow": [
-    "\n\nDirection\nA fog bow is seen in the same direction as a rainbow, thus the sun would be behind the head of the observer and the direction of view would be into a bank of fog (which may not be noticeable in directions away from the bow itself)"
+    {
+      "context": "0020 in)\u2014the fog bow has only very weak colors, with a red outer edge and bluish inner edge",
+      "sentence": "In many cases, when the droplets are very small, fog bows appear white, and are therefore sometimes called white rainbows",
+      "keyword": "therefore"
+    },
+    {
+      "context": " Mariners sometimes call fog bows sea-dogs",
+      "sentence": "\n\nDirection\nA fog bow is seen in the same direction as a rainbow, thus the sun would be behind the head of the observer and the direction of view would be into a bank of fog (which may not be noticeable in directions away from the bow itself)",
+      "keyword": "thus"
+    }
   ],
   "Frazil ice": [
-    " Ice generally floats, but due to frazil ice's small size relative to current speeds, it has an ineffective buoyancy and can be carried to the bottom very easily",
-    "\nThrough a process called secondary nucleation, the crystals quickly increase in number, and because of its supercooled surrounding, the crystals will continue to grow",
-    "\nFrazil ice has also been demonstrated to form beneath temperate (or \"warm-based\") glaciers as water flows quickly downhill and supercools due to a rapid loss of pressure",
-    "\n\nSuppression\nFrazil ice forms in supercooled water which occurs because the surface water loses heat to cooler air above",
-    " This final method is often not preferred because of high labour costs, cold, wet and late night working conditions"
+    {
+      "context": " The supercooled water will already be encouraging the formation of small ice crystals (frazil ice) and the crystals get taken to the bottom of the water body",
+      "sentence": " Ice generally floats, but due to frazil ice's small size relative to current speeds, it has an ineffective buoyancy and can be carried to the bottom very easily",
+      "keyword": "due to"
+    },
+    {
+      "context": " Ice generally floats, but due to frazil ice's small size relative to current speeds, it has an ineffective buoyancy and can be carried to the bottom very easily",
+      "sentence": "\nThrough a process called secondary nucleation, the crystals quickly increase in number, and because of its supercooled surrounding, the crystals will continue to grow",
+      "keyword": "because"
+    },
+    {
+      "context": "\nAs the crystals grow in number and size, the frazil ice will begin to adhere to objects in the water, especially if the objects themselves are at a temperature below water's freezing point",
+      "sentence": " The accumulation of frazil ice often causes flooding or damage to objects such as trash racks",
+      "keyword": "causes"
+    },
+    {
+      "context": " The growth will extend upstream and increase in width until the point where the frazil ice accumulations bridge together and block the water",
+      "sentence": " As more and more water flows against this block, the pressure on the upstream side increases and causes a differential pressure (difference in pressure from the upstream side and the downstream side)",
+      "keyword": "causes"
+    },
+    {
+      "context": " Once this happens, flooding and damage is likely unless otherwise prevented",
+      "sentence": "\nFrazil ice has also been demonstrated to form beneath temperate (or \"warm-based\") glaciers as water flows quickly downhill and supercools due to a rapid loss of pressure",
+      "keyword": "due to"
+    },
+    {
+      "context": " Subsequent freezing and recrystallization can result in a layer of sediment-rich ice at the base of the glacier which, upon melting at the terminus, can result in significant accumulation of sediment in moraines",
+      "sentence": " This phenomenon has been verified by elevated concentrations of tritium \u2014 produced by nuclear weapons testing and therefore almost entirely absent in ice frozen before 1945 \u2014 in the basal ice of several glaciers (signifying young ice) and the observation of rapid growth of ice crystals around water discharge vents at glacier termini",
+      "keyword": "therefore"
+    },
+    {
+      "context": " They include suppression, mechanical control, thermal control, vibration, materials selection and damage mitigation",
+      "sentence": "\n\nSuppression\nFrazil ice forms in supercooled water which occurs because the surface water loses heat to cooler air above",
+      "keyword": "because"
+    },
+    {
+      "context": "\n\nMechanical control\nThese methods include stabilizing freeze without restricting water flow, such as implementing weirs and ice booms, installing water jets to break up any accumulation that might occur, and using manual labour to rake away the accumulation",
+      "sentence": " This final method is often not preferred because of high labour costs, cold, wet and late night working conditions",
+      "keyword": "because"
+    }
   ],
   "Earthlight (astronomy)": [
-    " On these nights, the entire lunar disk is both directly and indirectly sunlit, and is thus unevenly bright enough to see"
+    {
+      "context": "This phenomenon is most visible from Earth at night (or astronomical twilight) a few days before or after the day of new moon, when the lunar phase is a thin crescent",
+      "sentence": " On these nights, the entire lunar disk is both directly and indirectly sunlit, and is thus unevenly bright enough to see",
+      "keyword": "thus"
+    }
   ],
   "Measurement of sea ice": [
-    " Volume is harder, because it requires a knowledge of the ice thickness, which is hard to measure directly; efforts such as PIOMAS use a combination of observations and modelling to estimate total volume",
-    " Together with a set of auxiliary data like ice density, snow cover thickness, air pressure, water salinity one can calculate the flow thickness and thus its volume",
-    "\n\nUse of 1981 to 2010 as a baseline\nScientists use the 1981 to 2010 average because it provides a consistent baseline for year-to-year comparisons of sea ice extent"
+    {
+      "context": "Sea ice may be considered in terms of total volume, or in terms of areal coverage",
+      "sentence": " Volume is harder, because it requires a knowledge of the ice thickness, which is hard to measure directly; efforts such as PIOMAS use a combination of observations and modelling to estimate total volume",
+      "keyword": "because"
+    },
+    {
+      "context": " Its active service period was from February 2003 to October 2009",
+      "sentence": " Together with a set of auxiliary data like ice density, snow cover thickness, air pressure, water salinity one can calculate the flow thickness and thus its volume",
+      "keyword": "thus"
+    },
+    {
+      "context": " The magnitude of the ice changes associated with the AAO and ENSO are smaller than the regional ice trends and local (or less understood large) scale processes still need to be investigated for a complete explanations",
+      "sentence": "\n\nUse of 1981 to 2010 as a baseline\nScientists use the 1981 to 2010 average because it provides a consistent baseline for year-to-year comparisons of sea ice extent",
+      "keyword": "because"
+    }
   ],
   "Melt pond": [
-    " Seawater entering the pond increases the melt rate because the salty water of the ocean is warmer than the fresh water of the pond"
+    {
+      "context": "Melt ponds can melt through to the ocean's surface",
+      "sentence": " Seawater entering the pond increases the melt rate because the salty water of the ocean is warmer than the fresh water of the pond",
+      "keyword": "because"
+    }
   ],
   "Midnight sun": [
-    "  This occurs at latitudes from 65\u00b044' to 90\u00b0 north or south, and does not stop exactly at the Arctic Circle or the Antarctic Circle, due to refraction",
-    "\nBecause of atmospheric refraction, and also because the Sun is a disc rather than a point, the midnight sun may be experienced at latitudes slightly south of the Arctic Circle or north of the Antarctic Circle, though not exceeding one degree (depending on local conditions)",
-    "\nObservers at heights appreciably above sea level can experience extended periods of midnight sun as a result of the \"dip\" of the horizon viewed from altitude",
-    " This is because Fairbanks is 51 minutes ahead of its idealized time zone (as most of the state is in one time zone) and Alaska observes daylight saving time"
+    {
+      "context": " When the midnight sun is seen in the Arctic, the Sun appears to move from left to right, but in Antarctica the equivalent apparent motion is from right to left",
+      "sentence": "  This occurs at latitudes from 65\u00b044' to 90\u00b0 north or south, and does not stop exactly at the Arctic Circle or the Antarctic Circle, due to refraction",
+      "keyword": "due to"
+    },
+    {
+      "context": " During the six months that the Sun is above the horizon, it spends the days continuously moving in circles around the observer, gradually spiralling higher and reaching its highest circuit of the sky at the summer solstice",
+      "sentence": "\nBecause of atmospheric refraction, and also because the Sun is a disc rather than a point, the midnight sun may be experienced at latitudes slightly south of the Arctic Circle or north of the Antarctic Circle, though not exceeding one degree (depending on local conditions)",
+      "keyword": "because"
+    },
+    {
+      "context": " at the summer solstice",
+      "sentence": " This is because Fairbanks is 51 minutes ahead of its idealized time zone (as most of the state is in one time zone) and Alaska observes daylight saving time",
+      "keyword": "because"
+    },
+    {
+      "context": "5 degrees above its own axis in its orbit",
+      "sentence": " This causes the part of Norway located in the Arctic region at the North Pole of Earth to move very close to the Sun and during this time the length of the day increases",
+      "keyword": "causes"
+    }
+  ],
+  "Plasma fountain": [
+    {
+      "context": " This paradox consists of the fact that helium in the Earth's atmosphere seems to be produced (via radioactive decay of uranium and thorium) faster than it is lost by escaping from the upper atmosphere",
+      "sentence": " The realization that some helium could be ionized, and therefore escape the earth along open magnetic field lines near the magnetic poles (the 'polar wind'), is one possible solution to the paradox",
+      "keyword": "therefore"
+    }
   ],
   "Polar night": [
-    " However, not all this time is classified as polar night since sunlight may be visible because of refraction",
-    " During civil twilight, there may still be enough light for most normal outdoor activities because of light scattering by the upper atmosphere and refraction",
-    " There is a location at the horizon around midday with more light than others because of refraction"
+    {
+      "context": "\nFor regions inside the polar circles, the maximum lengths of the time that the Sun is completely below the horizon varies from zero to a few days beyond the Arctic Circle and Antarctic Circle to 179 days at the Poles",
+      "sentence": " However, not all this time is classified as polar night since sunlight may be visible because of refraction",
+      "keyword": "because"
+    },
+    {
+      "context": " This means that the Sun is below the horizon, but by less than 6\u00b0",
+      "sentence": " During civil twilight, there may still be enough light for most normal outdoor activities because of light scattering by the upper atmosphere and refraction",
+      "keyword": "because"
+    },
+    {
+      "context": " Nautical twilight happens when the Sun is between six and twelve degrees below the horizon",
+      "sentence": " There is a location at the horizon around midday with more light than others because of refraction",
+      "keyword": "because"
+    }
+  ],
+  "Polynya": [
+    {
+      "context": " This process continues over time",
+      "sentence": " Latent heat polynyas are therefore a major source of sea ice production in the Antarctic",
+      "keyword": "therefore"
+    },
+    {
+      "context": " Latent heat polynyas are therefore a major source of sea ice production in the Antarctic",
+      "sentence": "Latent heat polynyas are regions of high ice production and therefore are possible sites of dense water production in both polar regions",
+      "keyword": "therefore"
+    },
+    {
+      "context": " Polar bears are known to be able to swim as far as 65 kilometres (40 mi) across open waters of a polynya",
+      "sentence": "The presence of polynyas in McMurdo Sound in the Antarctic provides an ice-free area where penguins can feed, and therefore they are important for the survival of the Cape Royds penguin colony",
+      "keyword": "therefore"
+    }
   ],
   "Reverse waterfall": [
-    "Reverse waterfall is a phenomenon in which water is blown upward due to strong wind in waterfalls giving an apparent perception of water flowing upwards",
-    "\nAmboli hills near Belgaum have various waterfalls that becomes active in monsoon which gets blown upward due to strong wind",
-    "\nHawaii: The Waipuhia Falls in Oahu gets reversed due to north-easterly trade winds"
+    {
+      "context": "",
+      "sentence": "Reverse waterfall is a phenomenon in which water is blown upward due to strong wind in waterfalls giving an apparent perception of water flowing upwards",
+      "keyword": "due to"
+    },
+    {
+      "context": "\nIndia:\nA waterfall at Naneghat in Malshej Ghat Road near Mumbai\nSamrad village in the Sandhan Valley has waterfalls showing reverse waterfall during monsoon",
+      "sentence": "\nAmboli hills near Belgaum have various waterfalls that becomes active in monsoon which gets blown upward due to strong wind",
+      "keyword": "due to"
+    },
+    {
+      "context": "\nAmboli hills near Belgaum have various waterfalls that becomes active in monsoon which gets blown upward due to strong wind",
+      "sentence": "\nHawaii: The Waipuhia Falls in Oahu gets reversed due to north-easterly trade winds",
+      "keyword": "due to"
+    }
   ],
   "Sea ice": [
-    " During growth, the ice thickening due to freezing (as opposed to dynamics) is itself dependent on the thickness, so that the ice growth slows as the ice thickens",
-    " First year ice is flatter than multiyear ice due to the lack of dynamic ridging, so ponds tend to have greater area",
-    " As the ice melts it lowers the albedo thus causing more heat to be absorbed by the Earth and further increase the amount of melting ice",
-    " Though the size of the ice floes is affected by the seasons, even a small change in global temperature can greatly affect the amount of sea ice, and due to the shrinking reflective surface that keeps the ocean cool, this sparks a cycle of ice shrinking and temperatures warming"
+    {
+      "context": " In contrast, a weathered ridge is one with a rounded crest and with sides sloping at less than 40 degrees",
+      "sentence": " Stamukhi are yet another type of pile-up but these are grounded and are therefore relatively stationary",
+      "keyword": "therefore"
+    },
+    {
+      "context": " They result from the interaction between fast ice and the drifting pack ice",
+      "sentence": "\nLevel ice is sea ice that has not been affected by deformation, and is therefore relatively flat",
+      "keyword": "therefore"
+    },
+    {
+      "context": "The growth and melt rate are also affected by the state of the ice itself",
+      "sentence": " During growth, the ice thickening due to freezing (as opposed to dynamics) is itself dependent on the thickness, so that the ice growth slows as the ice thickens",
+      "keyword": "due to"
+    },
+    {
+      "context": " the presence of natural basins for the melt ponds to form in",
+      "sentence": " First year ice is flatter than multiyear ice due to the lack of dynamic ridging, so ponds tend to have greater area",
+      "keyword": "due to"
+    },
+    {
+      "context": "\nAntarctic sea ice extent gradually increased in the period of satellite observations, which began in 1979, until a rapid decline in southern hemisphere spring of 2016",
+      "sentence": "\n\nRelationship to global warming and climate change\nSea ice provides an ecosystem for various polar species, particularly the polar bear, whose environment is being threatened as global warming causes the ice to melt more as the Earth's temperature gets warmer",
+      "keyword": "causes"
+    },
+    {
+      "context": " The bright, shiny surface (albedo) of the ice also serves a role in maintaining cooler polar temperatures by reflecting much of the sunlight that hits it back into space",
+      "sentence": " As the sea ice melts, its surface area shrinks, diminishing the size of the reflective surface and therefore causing the earth to absorb more of the sun's heat",
+      "keyword": "therefore"
+    },
+    {
+      "context": " As the sea ice melts, its surface area shrinks, diminishing the size of the reflective surface and therefore causing the earth to absorb more of the sun's heat",
+      "sentence": " As the ice melts it lowers the albedo thus causing more heat to be absorbed by the Earth and further increase the amount of melting ice",
+      "keyword": "thus"
+    },
+    {
+      "context": " As the ice melts it lowers the albedo thus causing more heat to be absorbed by the Earth and further increase the amount of melting ice",
+      "sentence": " Though the size of the ice floes is affected by the seasons, even a small change in global temperature can greatly affect the amount of sea ice, and due to the shrinking reflective surface that keeps the ocean cool, this sparks a cycle of ice shrinking and temperatures warming",
+      "keyword": "due to"
+    }
   ],
   "Sky brightness": [
-    "\nIn daytime, sodium and red oxygen emissions are dominant and roughly 1,000 times as bright as nighttime emissions because in daytime, the upper atmosphere is fully exposed to solar UV radiation"
+    {
+      "context": " How sodium gets to mesospheric heights is not yet well understood, but it is believed to be a combination of upward transport of sea salt and meteoritic dust",
+      "sentence": "\nIn daytime, sodium and red oxygen emissions are dominant and roughly 1,000 times as bright as nighttime emissions because in daytime, the upper atmosphere is fully exposed to solar UV radiation",
+      "keyword": "because"
+    },
+    {
+      "context": "7 nm oxygen line is dominant, and atmospheric scattering of starlight occurs",
+      "sentence": "\nDifferential refraction causes different parts of the spectrum to dominate, producing a golden hour and a blue hour",
+      "keyword": "causes"
+    },
+    {
+      "context": "78 mag arcsec\u22122",
+      "sentence": ")\nThe total sky brightness in zenith is therefore ~220 S10 or 21",
+      "keyword": "therefore"
+    }
   ],
   "Sort sol": [
-    "  Usually flocks break up when the number of individuals exceed about half a million birds due to excessive internal disturbances in the flock",
-    "  Over 20 years, there have been two confirmed cases of young northern goshawks who drowned because the incident took place over water"
+    {
+      "context": "  Sort sol in the marsh near T\u00f8nder can occasionally comprise a formation with up to one million birds",
+      "sentence": "  Usually flocks break up when the number of individuals exceed about half a million birds due to excessive internal disturbances in the flock",
+      "keyword": "due to"
+    },
+    {
+      "context": "  In rare cases the sticky deposits may render the predator unable to stay airborne",
+      "sentence": "  Over 20 years, there have been two confirmed cases of young northern goshawks who drowned because the incident took place over water",
+      "keyword": "because"
+    }
   ],
   "Steve (atmospheric phenomenon)": [
-    " When physics professor Eric Donovan from the University of Calgary saw their photographs, he suspected that was not the case because proton auroras are not visible"
+    {
+      "context": " However, the first accurate determination of what STEVE is was not made until after members of a Facebook group called Alberta Aurora Chasers named it, attributed it to a proton aurora, and called it a \"proton arc\"",
+      "sentence": " When physics professor Eric Donovan from the University of Calgary saw their photographs, he suspected that was not the case because proton auroras are not visible",
+      "keyword": "because"
+    }
   ],
   "Sunrise": [
-    "\n\nMeasurement\nAngle\nThe stage of sunrise known as false sunrise actually occurs before the Sun truly reaches the horizon because Earth's atmosphere refracts the Sun's image",
-    " Near the poles, the time-of-day variation is exaggerated, since the Sun crosses the horizon at a very shallow angle and thus rises more slowly",
-    "  The removal of the shorter wavelengths of light is due to Rayleigh scattering by air molecules and particles much smaller than the wavelength of visible light (less than 50 nm in diameter)",
-    "  The scattering by cloud droplets and other particles with diameters comparable to or larger than the sunlight's wavelengths (more than 600 nm) is due to Mie scattering and is not strongly wavelength-dependent",
-    "Sunset colors are typically more brilliant than sunrise colors, because the evening air contains more particles than morning air"
+    {
+      "context": " The term can also refer to the entire process of the solar disk crossing the horizon and its accompanying atmospheric effects",
+      "sentence": "\n\nTerminology\n\"Rise\"\nAlthough the Sun appears to \"rise\" from the horizon, it is actually the Earth's motion that causes the Sun to appear",
+      "keyword": "causes"
+    },
+    {
+      "context": "\nThe period after the Sun rises during which striking colors and atmospheric effects are still seen",
+      "sentence": "\n\nMeasurement\nAngle\nThe stage of sunrise known as false sunrise actually occurs before the Sun truly reaches the horizon because Earth's atmosphere refracts the Sun's image",
+      "keyword": "because"
+    },
+    {
+      "context": "\nVariations in atmospheric refraction can alter the time of sunrise by changing its apparent position",
+      "sentence": " Near the poles, the time-of-day variation is exaggerated, since the Sun crosses the horizon at a very shallow angle and thus rises more slowly",
+      "keyword": "thus"
+    },
+    {
+      "context": " The remaining reddened sunlight can then be scattered by cloud droplets and other relatively large particles to light up the horizon red and orange",
+      "sentence": "  The removal of the shorter wavelengths of light is due to Rayleigh scattering by air molecules and particles much smaller than the wavelength of visible light (less than 50 nm in diameter)",
+      "keyword": "due to"
+    },
+    {
+      "context": "  The removal of the shorter wavelengths of light is due to Rayleigh scattering by air molecules and particles much smaller than the wavelength of visible light (less than 50 nm in diameter)",
+      "sentence": "  The scattering by cloud droplets and other particles with diameters comparable to or larger than the sunlight's wavelengths (more than 600 nm) is due to Mie scattering and is not strongly wavelength-dependent",
+      "keyword": "due to"
+    },
+    {
+      "context": " Mie scattering is responsible for the light scattered by clouds, and also for the daytime halo of white light around the Sun (forward scattering of white light)",
+      "sentence": "Sunset colors are typically more brilliant than sunrise colors, because the evening air contains more particles than morning air",
+      "keyword": "because"
+    },
+    {
+      "context": " The high altitude clouds serve to reflect strongly reddened sunlight still striking the stratosphere after sunset, down to the surface",
+      "sentence": "\n\nOptical illusions and other phenomena\nAtmospheric refraction causes the Sun to be seen while it is still below the horizon",
+      "keyword": "causes"
+    }
   ],
   "Sunset": [
-    "Sunset, also known as sundown, is the daily disappearance of the Sun below the horizon due to Earth's rotation",
-    " Further, because the light from the Sun is refracted as it passes through the Earth's atmosphere, the Sun is still visible after it is geometrically below the horizon",
-    " The removal of the shorter wavelengths of light is due to Rayleigh scattering by air molecules and particles much smaller than the wavelength of visible light (less than 50 nm in diameter)",
-    "  The scattering by cloud droplets and other particles with diameters comparable to or larger than the sunlight's wavelengths (> 600 nm) is due to Mie scattering and is not strongly wavelength-dependent",
-    "\n\nSunset colors are typically more brilliant than sunrise colors, because the evening air contains more particles than morning air",
-    " In Polish, the word for east wsch\u00f3d (vskhud), is derived from the morpheme \"ws\" \u2013 meaning \"up\", and \"ch\u00f3d\" \u2013 signifying \"move\" (from the verb chodzi\u0107 \u2013 meaning \"walk, move\"), due to the act of the Sun coming up from behind the horizon",
-    " In Russian, the word for west, \u0437\u0430\u043f\u0430\u0434 (zapad), is derived from the words \u0437\u0430 \u2013 meaning \"behind\", and \u043f\u0430\u0434 \u2013 signifying \"fall\" (from the verb \u043f\u0430\u0434\u0430\u0442\u044c \u2013 padat'), due to the act of the Sun falling behind the horizon",
-    "\n\nPlanets\nSunsets on other planets appear different because of differences in the distance of the planet from the Sun and non-existent or differing atmospheric compositions",
-    "\n\nMars\nOn Mars, the setting Sun appears about two-thirds the size as it appears from Earth, due to the greater distance between Mars and the Sun"
+    {
+      "context": "",
+      "sentence": "Sunset, also known as sundown, is the daily disappearance of the Sun below the horizon due to Earth's rotation",
+      "keyword": "due to"
+    },
+    {
+      "context": "\nThe time of sunset is defined in astronomy as the moment when the upper limb of the Sun disappears below the horizon",
+      "sentence": " Near the horizon, atmospheric refraction causes sunlight rays to be distorted to such an extent that geometrically the solar disk is already about one diameter below the horizon when a sunset is observed",
+      "keyword": "causes"
+    },
+    {
+      "context": "As sunrise and sunset are calculated from the leading and trailing edges of the Sun, respectively, and not the center, the duration of a daytime is slightly longer than nighttime (by about 10 minutes, as seen from temperate latitudes)",
+      "sentence": " Further, because the light from the Sun is refracted as it passes through the Earth's atmosphere, the Sun is still visible after it is geometrically below the horizon",
+      "keyword": "because"
+    },
+    {
+      "context": " The remaining reddened sunlight can then be scattered by cloud droplets and other relatively large particles to light up the horizon red and orange",
+      "sentence": " The removal of the shorter wavelengths of light is due to Rayleigh scattering by air molecules and particles much smaller than the wavelength of visible light (less than 50 nm in diameter)",
+      "keyword": "due to"
+    },
+    {
+      "context": " The removal of the shorter wavelengths of light is due to Rayleigh scattering by air molecules and particles much smaller than the wavelength of visible light (less than 50 nm in diameter)",
+      "sentence": "  The scattering by cloud droplets and other particles with diameters comparable to or larger than the sunlight's wavelengths (> 600 nm) is due to Mie scattering and is not strongly wavelength-dependent",
+      "keyword": "due to"
+    },
+    {
+      "context": "  Mie scattering is responsible for the light scattered by clouds, and also for the daytime halo of white light around the Sun (forward scattering of white light)",
+      "sentence": "\n\nSunset colors are typically more brilliant than sunrise colors, because the evening air contains more particles than morning air",
+      "keyword": "because"
+    },
+    {
+      "context": " to French \"(se) lever\" meaning \"lift\" or \"rise\" (and also to English \"elevate\"), is also used to describe the east",
+      "sentence": " In Polish, the word for east wsch\u00f3d (vskhud), is derived from the morpheme \"ws\" \u2013 meaning \"up\", and \"ch\u00f3d\" \u2013 signifying \"move\" (from the verb chodzi\u0107 \u2013 meaning \"walk, move\"), due to the act of the Sun coming up from behind the horizon",
+      "keyword": "due to"
+    },
+    {
+      "context": " The Polish word for west, zach\u00f3d (zakhud), is similar but with the word \"za\" at the start, meaning \"behind\", from the act of the Sun going behind the horizon",
+      "sentence": " In Russian, the word for west, \u0437\u0430\u043f\u0430\u0434 (zapad), is derived from the words \u0437\u0430 \u2013 meaning \"behind\", and \u043f\u0430\u0434 \u2013 signifying \"fall\" (from the verb \u043f\u0430\u0434\u0430\u0442\u044c \u2013 padat'), due to the act of the Sun falling behind the horizon",
+      "keyword": "due to"
+    },
+    {
+      "context": "\n\nHistorical view\nThe 16th-century astronomer Nicolaus Copernicus was the first to present to the world a detailed and eventually widely accepted mathematical model supporting the premise that the Earth is moving and the Sun actually stays still, despite the impression from our point of view of a moving Sun",
+      "sentence": "\n\nPlanets\nSunsets on other planets appear different because of differences in the distance of the planet from the Sun and non-existent or differing atmospheric compositions",
+      "keyword": "because"
+    },
+    {
+      "context": "\n\nPlanets\nSunsets on other planets appear different because of differences in the distance of the planet from the Sun and non-existent or differing atmospheric compositions",
+      "sentence": "\n\nMars\nOn Mars, the setting Sun appears about two-thirds the size as it appears from Earth, due to the greater distance between Mars and the Sun",
+      "keyword": "due to"
+    }
   ],
   "Surface runoff": [
-    " Surface runoff often occurs because impervious areas (such as roofs and pavement) do not allow water to soak into the ground",
-    " However, not all rainfall will produce runoff because storage from soils can absorb light showers",
-    " This more commonly occurs in arid and semi-arid regions, where rainfall intensities are high and the soil infiltration capacity is reduced because of surface sealing, or in paved areas",
-    " Increased runoff reduces groundwater recharge, thus lowering the water table and making droughts worse, especially for agricultural farmers and others who depend on the water wells",
-    " Resource Conservation and Recovery Act (RCRA) in 1976, and later the Water Quality Act of 1987, states and cities have become more vigilant in controlling the containment and storage of toxic chemicals, thus preventing releases and leakage",
-    "\nIncreasingly, stormwater practitioners have recognized the need for Monte Carlo models to simulate stormwater processes because of natural variations in multiple variables that affect the quality and quantity of runofff",
-    " SELDM provides a method for rapid assessment of information that is otherwise difficult or impossible to obtain because it models the interactions among hydrologic variables (with different probability distributions) that result in a population of values that represent likely long-term outcomes from runoff processes and the potential effects of different mitigation measures"
+    {
+      "context": " This can occur when the soil is saturated by water to its full capacity, and that the rain arrives more quickly than the soil can absorb it",
+      "sentence": " Surface runoff often occurs because impervious areas (such as roofs and pavement) do not allow water to soak into the ground",
+      "keyword": "because"
+    },
+    {
+      "context": "\nIn areas where there is no snow, runoff will come from rainfall",
+      "sentence": " However, not all rainfall will produce runoff because storage from soils can absorb light showers",
+      "keyword": "because"
+    },
+    {
+      "context": " Horton), or unsaturated overland flow",
+      "sentence": " This more commonly occurs in arid and semi-arid regions, where rainfall intensities are high and the soil infiltration capacity is reduced because of surface sealing, or in paved areas",
+      "keyword": "because"
+    },
+    {
+      "context": " It is instead forced directly into streams or storm water runoff drains, where erosion and siltation can be major problems, even when flooding is not",
+      "sentence": " Increased runoff reduces groundwater recharge, thus lowering the water table and making droughts worse, especially for agricultural farmers and others who depend on the water wells",
+      "keyword": "thus"
+    },
+    {
+      "context": " Sheet erosion is the overland transport of sediment by runoff without a well defined channel",
+      "sentence": " Soil surface roughness causes may cause runoff to become concentrated into narrower flow paths: as these incise, the small but well-defined channels which are formed are known as rills",
+      "keyword": "causes"
+    },
+    {
+      "context": "  Shifting cultivation is a farming system which sometimes incorporates the slash and burn method in some regions of the world",
+      "sentence": " Erosion causes loss of the fertile top soil and reduces its fertility and quality of the agricultural produce",
+      "keyword": "causes"
+    },
+    {
+      "context": "S",
+      "sentence": " Resource Conservation and Recovery Act (RCRA) in 1976, and later the Water Quality Act of 1987, states and cities have become more vigilant in controlling the containment and storage of toxic chemicals, thus preventing releases and leakage",
+      "keyword": "thus"
+    },
+    {
+      "context": "  This computer model formed the basis of much of the mitigation study that led to strategies for land use and chemical handling controls",
+      "sentence": "\nIncreasingly, stormwater practitioners have recognized the need for Monte Carlo models to simulate stormwater processes because of natural variations in multiple variables that affect the quality and quantity of runofff",
+      "keyword": "because"
+    },
+    {
+      "context": " SELDM is designed to transform complex scientific data into meaningful information about the risk of adverse effects of runoff on receiving waters, the potential need for mitigation measures, and the potential effectiveness of such management measures for reducing these risks",
+      "sentence": " SELDM provides a method for rapid assessment of information that is otherwise difficult or impossible to obtain because it models the interactions among hydrologic variables (with different probability distributions) that result in a population of values that represent likely long-term outcomes from runoff processes and the potential effects of different mitigation measures",
+      "keyword": "because"
+    }
   ],
   "Terminator (solar)": [
-    " An observer on the terminator of such an orbiting body with an atmosphere would experience twilight due to light scattering by particles in the gaseous layer",
-    " While a little over one half of Earth is illuminated at any point in time (with exceptions during eclipses), the terminator path varies by time of day due to Earth's rotation on its axis",
-    " The terminator path also varies by time of year due to Earth's orbital revolution around the Sun; thus, the plane of the terminator is nearly parallel to planes created by lines of longitude during the equinoxes, and its maximum angle is approximately 23",
-    " This is primarily because the D layer, which absorbs high frequency signals, disappears rapidly on the dark side of the terminator, whereas the E and F layers above the D layer take longer to form",
-    " The cause of the illusion is simply the observer not taking into account that the observed slope of a light ray will change across the sky because of the lack of visual clues to establish 3D perspective"
+    {
+      "context": " The terminator is defined as the locus of points on a planet or moon where the line through the center of its parent star is tangent",
+      "sentence": " An observer on the terminator of such an orbiting body with an atmosphere would experience twilight due to light scattering by particles in the gaseous layer",
+      "keyword": "due to"
+    },
+    {
+      "context": " The circle separates the portion of Earth experiencing daylight from that experiencing darkness (night)",
+      "sentence": " While a little over one half of Earth is illuminated at any point in time (with exceptions during eclipses), the terminator path varies by time of day due to Earth's rotation on its axis",
+      "keyword": "due to"
+    },
+    {
+      "context": " While a little over one half of Earth is illuminated at any point in time (with exceptions during eclipses), the terminator path varies by time of day due to Earth's rotation on its axis",
+      "sentence": " The terminator path also varies by time of year due to Earth's orbital revolution around the Sun; thus, the plane of the terminator is nearly parallel to planes created by lines of longitude during the equinoxes, and its maximum angle is approximately 23",
+      "keyword": "due to"
+    },
+    {
+      "context": "\n\nGrey-line radio propagation\nStrength of radio propagation changes between day- and night-side of the ionosphere",
+      "sentence": " This is primarily because the D layer, which absorbs high frequency signals, disappears rapidly on the dark side of the terminator, whereas the E and F layers above the D layer take longer to form",
+      "keyword": "because"
+    },
+    {
+      "context": " a line perpendicular to the terminator) should correspond with the position of the Sun, but does not appear to do so",
+      "sentence": " The cause of the illusion is simply the observer not taking into account that the observed slope of a light ray will change across the sky because of the lack of visual clues to establish 3D perspective",
+      "keyword": "because"
+    },
+    {
+      "context": " Images showing a planetary terminator can be used to map topography: the position of the tip of a mountain behind the terminator line is measured when the Sun still or already illuminates it while the base of the mountain remains in shadow",
+      "sentence": " \nLow Earth orbit satellites take advantage of the fact that certain polar orbits set near the terminator do not suffer from eclipse, therefore their solar cells are continuously lit by sunlight",
+      "keyword": "therefore"
+    }
   ],
   "Twilight": [
-    "Twilight is the illumination of the lower atmosphere when the Sun is not directly visible because it is below the horizon",
-    "  As observed from the Earth (see apparent magnitude), sky-gazers know Venus, the brightest planet, as the \"morning star\" or \"evening star\" because they can see it during civil twilight",
-    " However, at latitudes closer than 9 degrees (between 81\u00b0 and 90\u00b0) to either Pole, the Sun cannot rise above the horizon nor sink more than 18 degrees below it on the same day on any date, this example of twilight cannot occur because the angular difference between solar noon and solar midnight elevates less than 18 degrees",
-    " This is true because at low latitudes the sun's apparent movement is perpendicular to the observer's horizon",
-    "\nMajor cities that near astronomical twilight from nautical dusk to nautical dawn: Khabarovsk (48\u00b029'0\"N), Dnipro (48\u00b027'0\"N), Victoria (48\u00b025'42\"N), Saguenay (48\u00b025\u20320\"N), Brest (48\u00b023\u203226\"N), Thunder Bay (48\u00b022\u203256\u2033N), Vienna (48\u00b012\u203230\u2033N), Bratislava (48\u00b08\u203238\u2033N), Munich (48\u00b08'0\"N)Although Helsinki, Oslo, Stockholm, Tallinn, and Saint Petersburg also enter into nautical twilight after sunset, they do have noticeably lighter skies at night during the summer solstice than other locations mentioned in their category above, because they do not go far into nautical twilight"
+    {
+      "context": "",
+      "sentence": "Twilight is the illumination of the lower atmosphere when the Sun is not directly visible because it is below the horizon",
+      "keyword": "because"
+    },
+    {
+      "context": "  At civil dawn and at civil dusk sunlight clearly defines the horizon while the brightest stars and planets can appear",
+      "sentence": "  As observed from the Earth (see apparent magnitude), sky-gazers know Venus, the brightest planet, as the \"morning star\" or \"evening star\" because they can see it during civil twilight",
+      "keyword": "because"
+    },
+    {
+      "context": " This also occurs for most observers at higher latitudes on many dates throughout the year, except those around the summer solstice",
+      "sentence": " However, at latitudes closer than 9 degrees (between 81\u00b0 and 90\u00b0) to either Pole, the Sun cannot rise above the horizon nor sink more than 18 degrees below it on the same day on any date, this example of twilight cannot occur because the angular difference between solar noon and solar midnight elevates less than 18 degrees",
+      "keyword": "because"
+    },
+    {
+      "context": " At the equator, civil twilight can last as little as 24 minutes",
+      "sentence": " This is true because at low latitudes the sun's apparent movement is perpendicular to the observer's horizon",
+      "keyword": "because"
+    },
+    {
+      "context": "\nAstronomical twilight from nautical dusk to nautical dawn: Hulun Buir, Erdenet, Nur-Sultan, Samara, Kyiv, Minsk, Alytus, Warsaw, Ko\u0161ice, Paris, Dublin, Zwettl, Prague, Stanley (Falkland Islands), Berlin, Hamburg, Luxembourg City, Brussels, Amsterdam, London, Cardiff, Vancouver, Calgary, Unalaska, Bellingham (largest in the continental USA), Rio Gallegos, and Punta Arenas",
+      "sentence": "\nMajor cities that near astronomical twilight from nautical dusk to nautical dawn: Khabarovsk (48\u00b029'0\"N), Dnipro (48\u00b027'0\"N), Victoria (48\u00b025'42\"N), Saguenay (48\u00b025\u20320\"N), Brest (48\u00b023\u203226\"N), Thunder Bay (48\u00b022\u203256\u2033N), Vienna (48\u00b012\u203230\u2033N), Bratislava (48\u00b08\u203238\u2033N), Munich (48\u00b08'0\"N)Although Helsinki, Oslo, Stockholm, Tallinn, and Saint Petersburg also enter into nautical twilight after sunset, they do have noticeably lighter skies at night during the summer solstice than other locations mentioned in their category above, because they do not go far into nautical twilight",
+      "keyword": "because"
+    }
   ]
 }
